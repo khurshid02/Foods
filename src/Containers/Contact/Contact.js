@@ -1,9 +1,6 @@
 import React from "react";
 import ContactWrapper from "./ContactWrapper";
 
-import { InputBase, Paper } from "@material-ui/core";
-import Button from "@material-ui/core/Button";
-
 const Contact = () => {
   return (
     <ContactWrapper>
