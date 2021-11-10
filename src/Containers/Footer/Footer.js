@@ -15,66 +15,66 @@ const Footer = () => {
           <div className="col-lg-3 col-sm-6 col-md-4">
             <ul>
               <li>
-                <a href="#">Home</a>
+                <a href="https://www.youtube.com/">Home</a>
               </li>
               <li>
-                <a href="#">Landingpage</a>
+                <a href="https://www.youtube.com/">Landingpage</a>
               </li>
               <li>
-                <a href="#">Documentation</a>
+                <a href="https://www.youtube.com/">Documentation</a>
               </li>
               <li>
-                <a href="#">Referral Program</a>
+                <a href="https://www.youtube.com/">Referral Program</a>
               </li>
               <li>
-                <a href="#">UI & UX Design</a>
+                <a href="https://www.youtube.com/">UI & UX Design</a>
               </li>
               <li>
-                <a href="#">Design</a>
-              </li>
-            </ul>
-          </div>
-          <div className="col-lg-3 col-sm-6 col-md-4">
-            <ul>
-              <li>
-                <a href="#">Menu</a>
-              </li>
-              <li>
-                <a href="#">Landingpage</a>
-              </li>
-              <li>
-                <a href="#">Documentation</a>
-              </li>
-              <li>
-                <a href="#">Referral Program</a>
-              </li>
-              <li>
-                <a href="#">UI & UX Design</a>
-              </li>
-              <li>
-                <a href="#">Design</a>
+                <a href="https://www.youtube.com/">Design</a>
               </li>
             </ul>
           </div>
           <div className="col-lg-3 col-sm-6 col-md-4">
             <ul>
               <li>
-                <a href="#">Company</a>
+                <a href="https://www.youtube.com/">Menu</a>
               </li>
               <li>
-                <a href="#">Landingpage</a>
+                <a href="https://www.youtube.com/">Landingpage</a>
               </li>
               <li>
-                <a href="#">Documentation</a>
+                <a href="https://www.youtube.com/">Documentation</a>
               </li>
               <li>
-                <a href="#">Referral Program</a>
+                <a href="https://www.youtube.com/">Referral Program</a>
               </li>
               <li>
-                <a href="#">Landingpage</a>
+                <a href="https://www.youtube.com/">UI & UX Design</a>
               </li>
               <li>
-                <a href="#">Design</a>
+                <a href="https://www.youtube.com/">Design</a>
+              </li>
+            </ul>
+          </div>
+          <div className="col-lg-3 col-sm-6 col-md-4">
+            <ul>
+              <li>
+                <a href="https://www.youtube.com/">Company</a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/">Landingpage</a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/">Documentation</a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/">Referral Program</a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/">Landingpage</a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/">Design</a>
               </li>
             </ul>
           </div>
